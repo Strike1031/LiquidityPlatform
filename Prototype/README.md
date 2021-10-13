@@ -6,7 +6,7 @@ This repo contains all the contracts for Roci NTF. It uses hardhat to aid in dev
 
 Install all dependencies: `npm i`.
 
-### Running the tests
+#### Running the tests
 
 `npx hardhat test`.
 
