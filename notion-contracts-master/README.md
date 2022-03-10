@@ -1,4 +1,4 @@
-# Notional Finance
+#  Notional Finance
 
 Notional is a fixed rate, fixed term lending and borrowing protocol on Ethereum. You can find us at https://notional.finance.
 
