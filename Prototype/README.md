@@ -1,4 +1,4 @@
-# NFT Roci Contracts
+## NFT Roci Contracts
 
 This repo contains all the contracts for Roci NTF. It uses hardhat to aid in development.
 
